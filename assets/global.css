@@ -1,0 +1,36 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.styled-input {
+    width: 100%;
+    padding: 1.5rem 0.75rem;
+    height: 3rem;
+    color: #4B5563;
+    background-color: black;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+  }
+  
+  .styled-input::placeholder {
+    color: #9CA3AF;
+  }
+  
+  .styled-input:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  /* Remove default appearance for WebKit browsers */
+  .styled-input {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+.custom-button {
+    border: 1px solid #666d80;
+    background-color: white;
+    color: #666d80; 
+  }
