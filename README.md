@@ -1,4 +1,5 @@
-# WXT + React
+# LinkedIn-AI-Reply Chrome Extension
 
-This template should help get you started developing with React in WXT.
-# Linked-ai-reply
+## Demo
+
+https://github.com/user-attachments/assets/299e38ff-1131-40b4-b662-3baf310d6ed5
